@@ -1,0 +1,6 @@
+[submodule "vendor/symboliccpp"]
+	path = vendor/symboliccpp
+	url = https://github.com/yuriyvolkov/symboliccpp.git
+[submodule "vendor/galib"]
+	path = vendor/galib
+	url = https://github.com/yuriyvolkov/galib.git
